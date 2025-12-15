@@ -1,0 +1,5 @@
+{
+  "name": "PDF to CSV Converter",
+  "description": "A fast and lightweight tool to extract tabular data from PDF files and convert them into CSV format using Gemini AI.",
+  "requestFramePermissions": []
+}
